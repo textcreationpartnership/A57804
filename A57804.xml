@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A glimpse of some truths to be made known in these last times in three particulars / by Thomas Royle.</title>
+            <author>Royle, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57804</idno>
+            <idno type="STC">Wing R2160</idno>
+            <idno type="STC">ESTC R24504</idno>
+            <idno type="EEBO-CITATION">08223382</idno>
+            <idno type="OCLC">ocm 08223382</idno>
+            <idno type="VID">41104</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57804)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41104)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1238:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A glimpse of some truths to be made known in these last times in three particulars / by Thomas Royle.</title>
+                  <author>Royle, Thomas.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Shewing, I. The end and use of all external ordinances, II. The nature of the spiritual death and resurrection, III. The Day of Judgment, what it is, and when it is."</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sacraments.</term>
+               <term>Resurrection.</term>
+               <term>Judgment Day.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41104:1"/>
+            <p>A Glimpſe of ſome Truths to be made known in theſe <hi>LAST TIMES.</hi>
+            </p>
+            <p>In Three PARTICULARS <hi>SHEWING,</hi>
+               <list>
+                  <item>I. <hi>The End and <g ref="char:V">Ʋ</g>ſe of all External Or<g ref="char:EOLhyphen"/>dinances.</hi>
+                  </item>
+                  <item>II. <hi>The Nature of the Spiritual Death and Reſurrection.</hi>
+                  </item>
+                  <item>III. <hi>The Day of Judgment, what it is, and when it is.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>By THOMAS ROYLE a member of the Army.</p>
+            <q>
+               <bibl>
+                  <hi>ISAIAH 60.1.</hi>
+               </bibl>
+               <p>Ariſe, ſhine, for thy Light is come, and the Glory of the Lord is riſen upon thee.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Giles Calvert</hi> at the ſign of the black Spread-Eagle at the Weſt end of <hi>Pauls</hi> neer Ludgate. 1648.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:41104:2"/>
+            <pb n="3" facs="tcp:41104:2"/>
+            <head>The EPISTLE to the READER.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>ALL thoſe Diſciples that ſtooped down, and looked into the Sepulchre, where the body of Jeſus had layen, they clearly figured out this truth; That many Chri<g ref="char:EOLhyphen"/>ſtians in this age ſhould be ſo taken with ſhadows and outward things, that they ſhould continue in them, when God had withdrawn his preſence and gone into a higher Dispenſation: When <hi>Mary</hi> would not beleeve the Angel, but that the body of Chriſt was in the place where it was buried; why, ſaith the An<g ref="char:EOLhyphen"/>gel, <hi>He is not here, for he is riſen:</hi> Mind the words, for there is a myſtery in them; Let me diſcover my thoughts to thoſe my Friends who contend for a Natural Day and Sabbath, is if there were more holineſs in one day then another; truly I muſt tell you thus much, that you have not finiſhed your ſix days work, and ſo are not come to ſee your reſt in the ſeventh: This ſeventh Day, and Lords Day, which <hi>John</hi> ſpeaks of, is Chriſt that high myſtery in us, who is perfect Reſt and Beauty; therefore ſaith the Text, <hi>there remains a Reſt to the people of God:</hi> and he that is entered into his Rest, he alſo hath ceaſed from his own works, as God did from his.</p>
+            <p>A word to thoſe who look upon God and Heaven to be a far off above the Firmament, in ſome place diſtant from the Creature; I muſt tell ſuch their apprehenſions are dark, and low, and fleſh<g ref="char:EOLhyphen"/>ly, for God is in every Creature, and appears in all things that we behold, his workings are in a myſtery; and thoſe that ſpeak much of Heaven, that it is a place of Glory, it is ſo, but it is not any local glory without, abſent from the Creature; Heaven is this, a clear Diſcovery of God, he appearing ſpiritually in us to be our fulneſs and reſt, that ſo the Creature acts not, nor lives any more to it ſelf, but God in Chriſt is all in all, both in him and for him: and this is it that <hi>Paul</hi> minds us of, <hi>Eph. 1.3. who hath bleſſed us with all ſpiritual bleſſings in heavenly places in Chriſt.</hi>
+            </p>
+            <p>As I have ſpoken a word of Light, in the beginning and firſt part of my book, to thoſe who contend for outward things and ſhadows, ſo let me ſpeak a word of love to you who profeſs your ſelves to be come out of <hi>Egypt,</hi> and brought through the wilderneſs to the
+<pb n="4" facs="tcp:41104:3"/>
+brink of <hi>Canaan;</hi> I mean you, my dear friends, who live above Ordinances, which type is fulfilled in you, that ſo now your fel<g ref="char:EOLhyphen"/>lowſhip and union is with that myſtery of God, being made one with it: why then contend not about doubtful Disputations, but let us labor after thoſe things which concern our peace; <hi>For it is a good thing,</hi> ſaith the Apoſtle, <hi>that the heart be eſtabliſhed with grace, following peace and holineſs with all men,</hi> there<g ref="char:EOLhyphen"/>fore let us commiſſerate the condition of ſuch Chriſtians as ſtand in that night of Darkneſs, I mean whoſe practice it is to carry on ſhadows and outward things, cracking the nut when the ker<g ref="char:EOLhyphen"/>nel is gone: It may be in this Dispenſation there appears a great Light to them, that they ſee much of God in it; there<g ref="char:EOLhyphen"/>fore this Light cannot be put out till there appears a greater; as to inſtance in Naturals, in that ſeaſon of the year, which we call Winter, many people labor at their Callings in the night, be<g ref="char:EOLhyphen"/>ing up and abroad before the day appears, they now make uſe of Candle-light to walk by; but when the Day appears and the Sun ſhines, then the light of the Candle is darkned by reaſon of the greater light, and ſo is put out, for it is not of any uſe: ſo it is in Spirituals, it may be many a poor Chriſtian walks by Candle-light and Star-light, which are the ſpeakings and teach<g ref="char:EOLhyphen"/>ings of men carrying on outward things; but when that Spiri<g ref="char:EOLhyphen"/>tual Day Chriſt dawns and appears in them to be their fulneſs, then their former Light is made Darkneſs; ſo that now all ſha<g ref="char:EOLhyphen"/>dows are vaniſhed away, and are not of any more worth in their eyes.</p>
+            <p>I have, with all tenderneſs, in my following Diſcourſe, layd open ſomething of the myſtery of God, but ſo far as I have devi<g ref="char:EOLhyphen"/>ated from the word of truth I ſhall not own: When the Chri<g ref="char:EOLhyphen"/>ſtian comes to moderate my Diſcovery of Scripture, let him not be raſh to utter himſelf, but let him wait till the flowers of Ex<g ref="char:EOLhyphen"/>perience ſmell ſweetly in him.</p>
+            <p>The firſt part of my book diſcovers what is the end of all Shadows:</p>
+            <p>The ſecond part declares the Reſurrection of Chriſtians.</p>
+            <p>And the third and laſt lays open the Day of Judgment, what it is, and when it ſhall be.</p>
+            <closer>
+               <signed>T. R.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="5" facs="tcp:41104:3"/>
+            <head>I. PART. <hi>A WORD OF Light and Truth diſcovered, for all Chriſtians to mind:</hi> But firſt eſpecially to thoſe who contend for outward Excellencies, as Form, and ex<g ref="char:EOLhyphen"/>ternal Order and Ordinances; which are the Sepulchre where the body of Christ hath layen.</head>
+            <opener>
+               <salute>My Friends,</salute>
+            </opener>
+            <p>J Shall make manifeſt and lay open the truth, according to that my<g ref="char:EOLhyphen"/>ſtery of God that leads me forth: I mind all along, by the myſtery of Truth which ſpeaks in me, that all thoſe Offices, Gifts, and Ordi<g ref="char:EOLhyphen"/>nances were typical, which the Apoſtles practiſed in their time; there<g ref="char:EOLhyphen"/>fore they clearly figured out that Glory and Beauty which ſhould be revealed in us, <hi>Rom.</hi> 8.18. I mind further that thoſe Ordinances which the hiſtory of Scripture ſpeaks of, as Breaking of Bread, and Water-Baptiſm, were a Diſpenſation according to the weakneſs of the Diſ<g ref="char:EOLhyphen"/>ciples, and they were to carry them on for ſuch a time, but not for e<g ref="char:EOLhyphen"/>ver, as ſome ſay: for as the coming of Chriſt in the fleſh did put an end to all the Ceremonies of the Law, even ſo do the appearances of Chriſt in us ſwallow up and put an end to all ſhadows; I mean both Breaking of Bread and Water-Baptiſm: theſe Adminiſtrations were truth ac<g ref="char:EOLhyphen"/>cording to that low Diſpenſation that the poor Diſciples were
+<pb n="6" facs="tcp:41104:4"/>
+under: therefore the Apoſtle tells them in 1 <hi>Cor.</hi> 11.26. ſaith he, in that hiſtory of truth, <hi>For as often as ye eat this bread, and drink this cup, ye do ſhew the Lords Death:</hi> But mind the Apoſtle a little, they were to carry on, for a ſeaſon, that ſhadow: but if you ask me, how long? why, the Text tells you, <hi>till he come:</hi> that is, the coming of the ſpirit of Truth in them: for truly ſo long as Chriſt was with them in the body, they had very few diſcoveries of that Doctrine of Truth that ſhould appear in them. You may ſee by the hiſtory of the Scriptures that they were mightily taken with the perſon of Chriſt, and with thoſe fleſhly priviledges that he carryed about while he was in the body: Therefore the Scripture tells you, <hi>that when he was to depart and be gone from the Diſciples, they were in great ſorrow:</hi> but ſaith Chriſt, <hi>I will ſee you again, and your heart ſhall rejoyce:</hi> that is, my next appearance ſhall be to you in Spirit, and I will be your ful<g ref="char:EOLhyphen"/>neſs, and you ſhall have ſpiritual fellowſhip with me: before it was external in the body, but now you ſhall be made partakers of the divine Nature: for I am the myſtery of God in you.</p>
+            <q>A word or two concerning Water-Baptiſm.</q>
+            <p>I mind that the Apoſtles had never any Commiſſion from Chriſt to baptize with water, for <hi>John</hi> was the Miniſter of water, and what the Apoſtles did they did upon his account, which was for the finiſh<g ref="char:EOLhyphen"/>ing of ſuch a time, and then an end was to be made of it, for it was legal and ceremonial: this Baptiſm of water was to be eaten up and put out by the Baptiſm of Chriſt; mind one Scripture for to confirm this, <hi>Mat.</hi> 3.11. <hi>I indeed,</hi> ſaith <hi>John, baptize you with water unto repen<g ref="char:EOLhyphen"/>tance, but he that cometh after me is mightier then I, whoſe ſhoes I am not worthy to bear, he ſhal baptize you with the holy Ghoſt, and with fire:</hi> that is, I <hi>John</hi> have material water to baptize you with, which is a ſign and legal, and to continue no longer but till you be bap<g ref="char:EOLhyphen"/>tized with the holy Ghoſt; as much as if <hi>John</hi> had ſaid, when the Bap<g ref="char:EOLhyphen"/>tiſm of Chriſt appears, then I give up my Office; the Scripture that proves this is <hi>John</hi> 3.30. One word more for the clearing of this.</p>
+            <p>You muſt mind that God hath his movings to all the children of truth, for he diſpenſeth his own fulneſs by times and degrees, and ſo makes the Soul to lie down in green paſtures, and leads it by the ſtill waters: See how God did move to <hi>Paul,</hi> from one Diſpenſation to another, that ſo <hi>Paul</hi> did forget all thoſe things that he eſteemed of formerly: He now deſires <hi>to know Chriſt,</hi> and <hi>the power of his reſurrection,</hi> and <hi>the fellowſhip of his ſufferings, being made conformable to his Death,
+<pb n="7" facs="tcp:41104:4"/>
+if by any means he might attain to the reſurrection of the dead:</hi> Oh the weight of theſe expreſſions! At this time <hi>Paul</hi> was come to know his union and oneneſs with the myſtery of Truth, by being made one with it, now you find <hi>Paul</hi> but preaching one Baptiſm, not Water-Baptiſm, but the Baptiſm of Chriſt; for ſaith he, <hi>one Lord, one Faith, one Baptiſm:</hi> and that is the Baptiſm which the hiſtory of truth holds forth, 1 <hi>Cor.</hi> 12.13. <hi>For by one Spirit are we all baptized into one body:</hi> the ſame Baptiſm you may ſee, <hi>Rom.</hi> 6.3, 4. <hi>Know you not,</hi> ſaith the Text, <hi>that ſo many of us as were baptized into Jeſus Christ, were bap<g ref="char:EOLhyphen"/>tized into his Death:</hi> Mind that word <hi>into,</hi> which was the Baptiſm of the Spirit, which gives us fellowſhip with him. Here I have la<g ref="char:EOLhyphen"/>bored, with that light that draws me forth, to make clear and to ſhew what is the end of all ſhadows: If you grant me this to be truth which I have diſcovered with abundance of tenderneſs and love, then there will ſpring this truth, That all Diſpenſations of external Ordi<g ref="char:EOLhyphen"/>nances, I mean Breaking of Bread and Water-Baptiſm, and outward Order, if God hath removed out of theſe and withdrawn his preſence from them, then they muſt needs be <hi>a waſte and barren wilderneſs where no water is, and a place for the Owl and the Raven to dwell in; and he ſhall ſtretch out upon them the line of confuſion and the ſtones of emptineſs: thorns ſhall come up in thoſe places, nettles and brambles in the fortreſſes thereof, and there ſhall be a habitation for Dragons, and a court for Owls, the wilde beasts of the Deſert ſhall alſo meet with the wilde beaſts of the Iſland, and the Satyre ſhall cry to his fellow; the ſcritch owl alſo ſhall reſt there, and find for her ſelf a place of reſt; there ſhall the great owl make her neſt, and lay and hatch, and gather under her ſhadow; there ſhall vultures alſo be gathered every one with her mate.</hi> If you enquire the myſtery of this hiſtory, I anſwer, That all Diſpenſations that God hath appeared in formerly, (but now is gone out of them into a higher diſcovery of his own fulneſs and beauty,) they are places for the myſtery of iniquity, and the ſon of perdition, and for the ſpirit of Antichriſt to poſſeſs and act in. It is the wiſdom of the Reader not to be high-minded, but fear, ſitting at the feet of <hi>Chriſt</hi> with <hi>Mary,</hi> but be ſilent; then ſhall there appear a light in obſcurity, and all your darkneſs ſhall be as the noon day: I my ſelf have been a ſtranger in the Land of Egypt, but the myſtery of Life hath brought me forth, and made me free: Therefore ſing O Daughter of <hi>Sion,</hi> be glad, and rejoyce, for the Lord is in the midſt of thee, thou ſhalt not ſee evil any more.</p>
+         </div>
+         <div n="2" type="part">
+            <pb n="8" facs="tcp:41104:5"/>
+            <head>II. PART. <hi>A Myſtery revealed to many Saints, CONCERNING</hi> A Chriſtians ſpiritual death &amp; reſurrection.</head>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>J Shall labor to put an end to ſuch Diſputes as we have had formerly: The thing and principle that I intend to treat upon, is, concerning the Reſurrection of Chriſtians, which I ſhall diſcover clearly according to that light that breaks forth in me.</p>
+            <p>Firſt, let us weigh the hiſtory, and then let us come to the myſtery; I find, in the 11. of <hi>John,</hi> that <hi>Chriſt</hi> and <hi>Martha</hi> were in ſerious diſcourſe about the body of <hi>Lazarus<g ref="char:punc">▪</g>
+               </hi> upon this Jeſus ſaith unto her, <hi>thy brother ſhall riſe again; Martha</hi> ſaid unto him, <hi>I know he ſhall riſe again in the Reſurrection at the laſt Day:</hi> to that queſtion Jeſus did not anſwer her, for the thing that ſhe drove at was the reſurrection of the body; but Jeſus diſcerning her low and fleſhly apprehenſions, he comes to take her off with theſe words, <hi>I am the Reſurrection and the Life, he that beleeveth in me, though he were dead, yet ſhall he live:</hi> The Myſtery of this Scripture in me, is this, That Chriſt is the ſpiritual Reſurrection of Chriſtians; a Reſurrection out of Darkneſs into Light, out of Nature into Grace, that ſo he bears not any longer the Image of the firſt <hi>Adam,</hi> which was a figure of all fleſhly wiſ<g ref="char:EOLhyphen"/>dom, but now he is riſen in the likeneſs of the ſecond <hi>Adam,</hi> that ſo now that myſtery of iniquity, wicked one, and ſon of perdition is cru<g ref="char:EOLhyphen"/>cified in him, as the fleſh of Chriſt was crucified: the Chriſtian having ſome glimmerings of this, that the man of ſin is ſubdued in him, then comes he to have his union and oneneſs with that myſtery of God in him; then is he entered into his reſt, as Chriſt did into his: And this is that reſurrection and ſpiritual gain, which both Chriſt and the Apo<g ref="char:EOLhyphen"/>ſtles mind in the Scriptures.</p>
+            <p>Friends, let us dwell a little upon that hiſtory in 1 <hi>Cor.</hi> 15.35. ſaith the Apoſtle there, <hi>But ſome man will ſay, How are the dead raiſed up?
+<pb n="9" facs="tcp:41104:5"/>
+and with what bodies do they come?</hi> Weigh the diſcourſe of theſe Scriptures following; the Apoſtle, to take off the firſt objection, ſaith, <hi>Thou fool, that which thou ſoweſt, is not quickned, except it dye: And that which thou ſoweſt, thou ſoweſt not that body that ſhall be, but bare grain, it may chance of wheat or ſome other grain: But,</hi> ſaith the Text, <hi>God giveth it a body as it hath pleaſed him, and to every ſeed his own body:</hi> and ſo the Apoſtle goes to illuſtrate and ſet forth a ſpiritual Reſurrection and not the Reſurrection of the natural body.</p>
+            <p>But you may object and ſay, <hi>Phil.</hi> 3.21 <hi>Who ſhall change our vile body, that it may be faſhioned like unto his glorious body?</hi>
+            </p>
+            <p>To this I reply with Scripture, and then the myſtery of it, ſaith the Apoſtle, <hi>There is a natural body, and there is a ſpiritual body:</hi> The meaning of the Apoſtle is not, in that in the <hi>Philippians,</hi> as if Chriſt were in one ſingle perſon or figure of a man glorified in fleſh or the bo<g ref="char:EOLhyphen"/>dy without, in a local glory; therefore if you contend for this, your ap<g ref="char:EOLhyphen"/>prehenſions are but fleſhly and low: for truly friends, to deal freely with you, Chriſt is not of any other ſubſtance or form but the Divine Nature, and ſo is no more, till he is in Spirit in his creatures; and when he appears in them, then is their Reſurrection<g ref="char:punc">▪</g> It may be you will ſay this is truth: But is there not a Reſurrection of the Natural body a<g ref="char:EOLhyphen"/>gain in that form which it bears now? for the Scripture ſaith, <hi>And this is the Fathers wil which hath ſent me, that of all which he hath given me, I ſhould loſe nothing, but ſhould raiſe it up again at the laſt Day:</hi> The meaning of Chriſt in theſe words is not, That thoſe earthly bodies of the Diſciples ſhould be raiſed again in the ſame form that they were in; but the myſtery of this hiſtory is this, as much as if Chriſt had ſaid, When I appear in you, then I am that laſt Day, then ſhall you be raiſed up; for my ſecond coming is in the Spirit: Then I will loſe nothing of that myſtery of God in you, for I am one with it. But you may ob<g ref="char:EOLhyphen"/>ject further in thoſe words of the Apoſtle, <hi>Now if Chriſt be preached that he roſe from the dead, how ſay ſome amongſt you, that there is no reſurrection of the dead? but if there be no reſurrection of the Dead, then is Chriſt not riſen:</hi> and <hi>if Chriſt be not riſen, your faith is in vain, you are yet in your ſins:</hi> It may be, the diſcourſe of theſe Scriptures, in the outward ſence of them, may appear to many to have ſuch a truth in them, as that the na<g ref="char:EOLhyphen"/>tural body ſhall be raiſed; but I deny that to be a truth according to ſuch reſults and concluſions, for the mind of the Apoſtle drives at a fur<g ref="char:EOLhyphen"/>ther myſtery, for when he ſaith, <hi>If there be no reſurrection of the dead,
+<pb n="10" facs="tcp:41104:6"/>
+then is Christ not riſen:</hi> That is as much as if the Apoſtle had ſaid, if you be not made free from that law of bondage, which hath taken you captive, being dead in ſins and treſpaſſes, then Chriſt, which is your Re<g ref="char:EOLhyphen"/>ſurrection in you, is not riſen; but the Apoſtle knowing that he was made light by the myſtery of truth in him, he concludes in theſe words, <hi>But now is Chriſt riſen from the dead,</hi> that is, Chriſt was ſo riſen ſpi<g ref="char:EOLhyphen"/>ritually in <hi>Paul,</hi> that he had a clear diſcovery of it.</p>
+            <p>I have made manifeſt here in theſe lines of love for all thoſe that are truly wiſe and prudent to weigh, let me have a charitable cenſure of all my friends, who feu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſtammerings of my tongue.</p>
+            <p>Awake and ſing ye that dwell in the duſt, for thy dew is as the dew of herbs, and the earth ſhall caſt out the dead.</p>
+         </div>
+         <div n="3" type="part">
+            <head>III. PART. The Day of Judgment, what it is, and when it ſhall be.</head>
+            <p>
+               <hi>TEnder Friends,</hi> I ſhall labor to lay open ſuch a myſtery as hath bin hid from many ages, but hath ſhewed it ſelf to me within theſe few days: the principle is this, concerning the day of Judgment: It may be my diſcourſe will ſeem ſtrange to many: I ſhall explain my ſelf what the laſt day is, and when it ſhall be.</p>
+            <p>We ſhall begin with ſuch Scriptures as ſeem according to the out<g ref="char:EOLhyphen"/>ward ſound of them to contend for ſuch a natural day, as if Chriſt would come again in the fleſh, being darkneſs to all the world, and to confound all ſuch people as have not any knowledg of him, but this is fleſhly, notional and Jewiſh, yet this is the doctrine of <hi>England.</hi>
+            </p>
+            <p>I ſhall cite ſome Scriptures, and then open the mind of them. <hi>Mal.</hi> 4.5. <hi>Behold I will ſend you</hi> Elijah <hi>the Prophet, before the coming of the great and dreadful day of the Lord.</hi> Some underſtand his coming to be in the body to deſtroy all perſons that are not found in him, and will diſſolve and break in pieces this earthly tabernacle, as the material earth and all things that we behold ſhall paſs away: theſe apprehenſi<g ref="char:EOLhyphen"/>ons are low and dark. Friends, the day of Chriſt is ſpiritual, and where he
+<pb n="11" facs="tcp:41104:6"/>
+ſaith, <hi>I will ſend you</hi> Elijah <hi>the Prophet before the coming of the great &amp; dreadful day of the Lord:</hi> This <hi>Elijah</hi> is thoſe ſpiritual appearances of Chriſt in us; this is he who <hi>ſhall ſuddenly come to his temple, even the meſſenger of the Covenant,</hi> Mal. 3.1. Now ſhall the day of the Lord be dreadful conſuming and burning up all fleſhly excellency in us, de<g ref="char:EOLhyphen"/>ſtroying the ſon of the bond-woman, which is creature wiſdom and darkneſs in us. The ſecond Scripture is this, <hi>But who may abide the day of his coming? and who ſhall ſtand when he appeareth? for he is like a refiners fire:</hi> The mind of this Scripture in me is this, That the coming and appearance of that day and myſtery of God in us is like a refiners fire, judging all the fleſhly pomp, and burning up all carnal glo<g ref="char:EOLhyphen"/>ry, which may be was a principle in us. Oh friends, when this day Chriſt dawns in the ſoul, no fleſh is able to ſtand or abide his coming, for he appearing ſpiritually in his creatures kills the very life, ſtrength and power of all that fleſhlineſs in them, then is the day of Judgment which will not be terrible to the ſoul but ſweet and refreſhing. The next Scripture is this<g ref="char:punc">▪</g> 
+               <hi>Tremble thou earth at the preſence of the Lord:</hi> The myſtery is this; When God comes and appears ſpiritually in Chri<g ref="char:EOLhyphen"/>ſtians to be their fulneſs and perfect reſt, then doth that earthlineſs and darkneſs in them tremble and melt at his preſence. The next Scripture to clear, may be 2 <hi>Cor.</hi> 5.10. <hi>For we muſt all appear before the Iudg<g ref="char:EOLhyphen"/>ment ſeat of Christ, that every one may receive the things done in his body according to that he hath done, whether it be good or bad:</hi> This Scripture ſeems according to the outward ſence, difficult to clear, but truly there is a myſtery in it, and I would have all Chriſtians to mind, that the Judgment ſeat of Chriſt is not in any form or ſhape of the bo<g ref="char:EOLhyphen"/>dy without, for he is not of any other ſubſtance in his appearance but what he is in Chriſtians ſpiritually, and where that principle appears, ſo as the Chriſtian hath a clear diſcovery of it: he ſees now that the ſon of the bond-woman, which is the fleſh and creature-wiſdom, which are notions of the firſt <hi>Adam,</hi> muſt give an account to the ſon of the free-woman for perſecuting him, that is, when Chriſt comes to raign in Spi<g ref="char:EOLhyphen"/>rit in us, then ſhall all his enemies be made his footſtool, and this ſhall be perfected before this earthly tabernacle be put off that we bear a<g ref="char:EOLhyphen"/>bout with us: and the fleſh ſhall be ſo judg'd and kil'd, that it ſhall be ſubject to the Teſtimony of Jeſus, I mean the Spirit of Propheſie which is in us: Let not any deſpiſe my labor of love in this ſhort diſcourſe; I have layd open how the day of God appears, and what the workings
+<pb n="12" facs="tcp:41104:7" rendition="simple:additions"/>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it and that it is ſpiritual and not natural burning up and judging that earthly Creation in us. Therefore now <hi>ſing &amp; rejoyce oh daughter of</hi> Si<g ref="char:EOLhyphen"/>on, <hi>for <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I come, &amp; I wil dwel in the midſt of thee, then ſhal the wilder<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and ſolitary places be glad, and the Deſart ſhall rejoyce, and bloſ<g ref="char:EOLhyphen"/>ſom <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the roſe, it ſhall bloſſom abundantly and rejoyce, even with joy and ſinging; the glory of</hi> Lebanon <hi>ſhall be given unto it, the excellency of</hi> Carmel <hi>and</hi> Sharon <hi>they ſhall ſee the glory and beauty of it; then ſhall the lame man leap as an hart, and the tongue of the dumb ſing, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in the wilderneſs ſhall waters break out, and ſtreams in the Deſart, and an high way ſhall be there, and a way, and it ſhall be called the way <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f holineſs<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <p>My friends, all this works in a myſtery in you, you are that wilderneſs and ſolitary place that ſhall be glad, and the the time when this ſhall be, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> when that day Chriſt, who is the myſtery of God, breaks forth and appears in you, to be your fulneſs and perfect reſt, then is that Scripture fulfilled in you, <hi>That the envy of</hi> Ephraim <hi>is departed, and the A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ries of</hi> Judah <hi>are cut off;</hi> ſo as <hi>Ephraim</hi> ſhall not envy <hi>Iudah,</hi> and <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udah</hi> ſhall not vex <hi>Ephraim.</hi> All thoſe that have a beam of love made manifeſt in them, will clearly underſtand and diſcern my diſcourſe; but th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe that cannot diſcern it, and grant it me to be truth, my councel to them is this, to be ſilent, for their ſtrength is to ſit ſtill, till that myſtery of life ſpeak in them, then there appears a way in the wilderneſs, and ſprings in the deſart.</p>
+            <p>Out of <hi>Sion</hi> the perfection of beauty God hath ſhined.</p>
+            <closer>
+               <signed>Your Friend in the neareſt tie and bond of love <hi>Thomas Royle,</hi> a Member of the Army.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
